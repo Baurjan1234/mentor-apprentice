@@ -1,0 +1,29 @@
+.Form {
+    padding: 30px;
+    margin : 30px auto ;
+    background-color: rgb(38, 38, 38);
+    border-radius: 25px;
+    width: 40%;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .Form {
+        margin : 20px ;
+        width: auto;
+    }   
+}
+
+.email {
+    color: aliceblue;
+}
+.textarea {
+    color: aliceblue;
+}
+
+.h1-style {
+    
+    color: aliceblue;
+margin-bottom: 20px ;
+
+}

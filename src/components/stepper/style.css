@@ -1,0 +1,10 @@
+.stepper{
+    margin: auto;
+    width: 700px;
+    padding: 30px ;
+    /* background-color: aqua; */
+}
+
+.stepLabel {
+    color: brown;
+}

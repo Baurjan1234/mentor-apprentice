@@ -1,0 +1,9 @@
+.contain{
+    width: 100%;
+    height: 600px ;
+    background-color: aquamarine;
+}
+
+.dark {
+    /* background-color: dimgrey; */
+}

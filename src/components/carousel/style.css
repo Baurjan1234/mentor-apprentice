@@ -1,0 +1,12 @@
+.Carousel {
+    margin: 0 150px;
+    width: auto;
+    background-color: black;
+}
+
+@media screen  and (max-width: 768px) {
+    .Carousel {
+        margin: 0;
+        /* height: 290px; */
+    }   
+}
